@@ -41,5 +41,5 @@ I build cross-platform mobile experiences and scalable web applications. Current
   
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yukonseeme&theme=radical)
