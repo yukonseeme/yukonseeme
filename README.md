@@ -1,5 +1,5 @@
 # Hi, I'm Vhilly Manalansang!
-### Full-Stack Developer | Mobile (Flutter) | Web (React) | Aspiring Cloud & AI Engineer
+### Full-Stack Developer | Mobile | Web | Aspiring Cloud & AI Engineer
 
 I build cross-platform mobile experiences and scalable web applications. Currently, I'm expanding my expertise by integrating **AWS Cloud** and **AI models** into my development workflow.
 
