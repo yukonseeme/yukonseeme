@@ -37,10 +37,8 @@ I build cross-platform mobile experiences and scalable web applications. Current
 ### AWS & AI Journey (Learning in Progress)
 *I am currently documenting my transition into Cloud Architecture via AWS Skill Builder.*
 
-- 🚀 **Target:** AWS Certified Solutions Architect.
-- 🛠 **Current Focus:** Deploying **Django/Docker** containers to AWS ECS and using **Amazon Bedrock** for AI features.
-- 📈 **Goal:** Bridging IoT (Arduino) with Cloud Data Pipelines.
-
+- **Target:** AWS Certified Solutions Architect.
+  
 ---
 
 ### 📊 GitHub Stats
