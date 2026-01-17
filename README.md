@@ -42,4 +42,4 @@ I build cross-platform mobile experiences and scalable web applications. Current
 ---
 
 ### GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=yukonseeme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yukonseeme)](https://git.io/streak-stats)
