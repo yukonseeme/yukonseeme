@@ -1,4 +1,5 @@
 # 💫 About Me:
+I'm a Full-Stack Developer / Software Engineer
 🔭 I’m currently working on ATS Friendly Resume Optimizer using Spring Boot and Spring AI<br>🌱 I’m currently mastering Java<br>💬 Aspiring Software Engineer<br>
 
 
